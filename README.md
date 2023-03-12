@@ -18,6 +18,4 @@ College Name : Government Polytechnic Mumbai Department : Computer Engineering T
 Our project is based on RTO application, RTO is a Regional Transport Office or Regional Transport Authority (RTO / RTA) is the organization of the Indian government responsible for maintaining a database of drivers and a database of vehicles for various states of India. The RTO issues driving license, organizes collection of vehicle road tax and road fund license and sells personalized registrations. As we know that most of the people driving on road break the rule while the signal is red, so main motive of our application is to capture the photo of that vehicle send to that appropriate driver with fine of breaking the rules.
 
 # Flow Chart :
-<img src="![chalaan archi](https://user-images.githubusercontent.com/54741562/224539462-8bbbc6ce-cedd-476f-a3bd-3ce16a53bdba.png)">
-![chalaan archi](https://user-images.githubusercontent.com/54741562/224539543-80402b34-671b-4a95-a53b-df78ffcad5ff.png)
-![chalaan archi](https://user-images.githubusercontent.com/54741562/224539576-765923fa-4ace-44f4-911f-8f288f449179.png)
+![chalaan archi](https://user-images.githubusercontent.com/54741562/224539660-435ec363-e1c4-4717-b479-894406e9860d.png)
